@@ -1,4 +1,4 @@
-### Hi there 👋, I am **Anas Khan** 🚀.
+### Hi there 👋, I am **Anas Khan** 🚀
 
 - 💻 Started with CP with C, C++ & Python
 - 🌱 I’m currently learning Web Development
