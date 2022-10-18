@@ -1,6 +1,6 @@
 [![@anxkhn's Holopin board](https://holopin.me/anxkhn)](https://holopin.io/@anxkhn)
 
-#r Hey there👋 ! This is **Anas Khan** 🚀
+# Hey there👋 ! This is **Anas Khan** 🚀
 
 - 💻 Started with CP with C, C++ & Python
 - 🌱 I’m currently learning Web Development
