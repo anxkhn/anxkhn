@@ -2,10 +2,11 @@
 
 # Hey there👋 ! This is **Anas Khan** 🚀
 
-- 💻 Started with CP with C, C++ & Python
-- 🌱 I’m currently learning Web Development
-- 🔎 How to reach me: @anxkhn on all socials ^_^
+- 💻 Proficient with C, C++ & Python
+- 🌱 I’m currently learning ReactJS
+- 🔎 Exploring Web Development and Competitive Programming
 - 📧 Email me : hello(at)anxkhn(dot)in
+- 🎉 @anxkhn on all socials ^_^
 
 #### Feel free to refer my personal code repos responsibly.
 <br>
