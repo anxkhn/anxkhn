@@ -3,8 +3,8 @@
 # Hey there👋 ! This is **Anas Khan** 🚀
 
 - 💻 Proficient with C, C++ & Python
-- 🌱 I’m currently learning ReactJS
-- 🔎 Exploring Web Development and Competitive Programming
+- 🌱 I’m currently learning MERN Stack
+- 🔎 Info Backend Dev. and Competitive Programming
 - 📧 Email me : hello(at)anxkhn(dot)in
 - 🎉 @anxkhn on all socials ^_^
 
