@@ -4,7 +4,7 @@
 
 - 💻 Proficient with C, C++ & Python
 - 🌱 I’m currently learning MERN Stack
-- 🔎 Info Backend Dev. and Competitive Programming
+- 🔎 Into backend dev and competitive programming
 - 📧 Email me : hello(at)anxkhn(dot)in
 - 🎉 @anxkhn on all socials ^_^
 
