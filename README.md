@@ -2,10 +2,10 @@
 
 # Hey there👋 ! This is **Anas Khan** 🚀
 
-- 💻 Proficient with C, C++ & Python
-- 🌱 I’m currently learning MERN Stack
-- 🔎 Into backend dev and machine learning
-- 📧 Email me : hello(at)anxkhn(dot)in or anxkhn28(at)gmail(dot)com
+- 💻 Weapon of choice - Python
+- 🌱 I’m currently exploring machine learning
+- 🔎 Into full stack web development 
+- 📧 Email me : hello(at)anxkhn(dot)xyz or anxkhn28(at)gmail(dot)com
 - 🎉 @anxkhn on all socials ^_^
 
 #### Feel free to refer my personal code repos responsibly.
