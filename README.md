@@ -6,7 +6,7 @@
 - 💻 weapon of choice - python
 - 🌱 i’m currently exploring machine learning
 - 🔎 into full-stack web development 
-- 📧 email me : hello(at)anxkhn(dot)xyz or anxkhn28(at)gmail(dot)com
+- 📧 email me : anxkhn(at)duck(dot)com or anxkhn28(at)gmail(dot)com
 - 🎉 @anxkhn on all socials ^_^
 
 <br>
