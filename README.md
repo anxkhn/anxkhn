@@ -1,6 +1,6 @@
 ## hey there👋 ! **anas khan** 🚀
 
-![github-min](https://github.com/anxkhn/anxkhn/assets/83116240/a209a008-56e9-4acb-8e60-f86b901a5dcf)
+![github-banner](https://github.com/user-attachments/assets/a1f509e3-beae-458a-b13d-b65aedb615e3)
 
 - 👨🏻‍💻 alias: @anxkhn
 - 💻 weapon of choice - python
