@@ -3,10 +3,9 @@
 ![github-banner](https://github.com/user-attachments/assets/a1f509e3-beae-458a-b13d-b65aedb615e3)
 
 - 👨🏻‍💻 alias: @anxkhn
-- 💻 weapon of choice - python
-- 🌱 i’m currently exploring ruby on rails and MVC arch
-- 🔎 primarily into backend development
-- 📧 email me : anxkhn(at)duck(dot)com
+- 💻 i’m currently experimenting with open source llms and finetuning them
+- 🔎 primarily into backend development and systems
+- 📧 email me : anxkhn(at)duck(dot)com 
 - 🎉 @anxkhn on all socials ^\_^
 
 <br>
