@@ -3,7 +3,8 @@
 ![github-banner](https://github.com/user-attachments/assets/a1f509e3-beae-458a-b13d-b65aedb615e3)
 
 - 👨🏻‍💻 alias: @anxkhn
-- 💻 i’m currently experimenting with open source llms and finetuning them
+- 💻 i’m currently tinkering with open source llms and finetuning them
+- 💼 sde intern @ hackerrank labs
 - 🔎 primarily into backend development and systems
 - 📧 email me : anxkhn(at)duck(dot)com 
 - 🎉 @anxkhn on all socials ^\_^
