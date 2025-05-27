@@ -3,11 +3,24 @@
 ![github-banner](https://github.com/user-attachments/assets/a1f509e3-beae-458a-b13d-b65aedb615e3)
 
 - 👨🏻‍💻 alias: @anxkhn
-- 💻 i’m currently tinkering with open source llms and finetuning them
-- 💼 sde intern @ hackerrank labs
-- 🔎 primarily into backend development and systems
-- 📧 email me : anxkhn(at)duck(dot)com 
-- 🎉 @anxkhn on all socials ^\_^
+- 💼 **sde intern @ hackerrank | gsoc'25 @ google deepmind**
+- 💻 currently tinkering with open-source llms
+- 🔎 primarily into backend engineering and dev infra
+- 📧 reach out: anxkhn(at)duck(dot)com → [click to email](mailto:anxkhn@duck.com)
+- 🎉 socials: @anxkhn everywhere → [twitter](https://twitter.com/anxkhn) / [linkedin](https://linkedin.com/in/anxkhn)
+
+🚀 some stuff I’ve built:
+- 🎓 [**CertiSure**](http://anxkhn.github.io/certisure): B2B certification platform w/ bulk gen + QR validation
+- 🗺️ [**AuraTrips**](https://github.com/anxkhn/AuraTrips): AI-based travel itinerary gen using LLaMA + RAG
+- 🔐 [**CodeClip**](http://anxkhn.github.io/codeclip): password-protected snippet sharing + LLM-based code explainer
+- 📦 [**FFpy / FlashFlask / OpynGPT**](https://pypi.org/user/anxkhn/): Dev-first PyPI tools (35K+ downloads)
+
+🏆 highlights:
+- 🥈 winner in 6+ national hackathons
+- 📜 published LLM research @ CML 2025 (Springer LNNS)
+- 🏅 recipient of Principal’s Excellence Award @ TSEC
+
+🗂️ check out my [portfolio](https://anaskhan.me) & [resume](https://anaskhan.me/cv) if you're curious 👀
 
 <br>
 
@@ -52,6 +65,7 @@
      <img src="https://go-skill-icons.vercel.app/api/icons?i=django"  width="40" height="40"/> </a>&nbsp;
      <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs"  width="40" height="40"/> </a>&nbsp;
      <img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=rails"  width="40" height="40"/> </a>&nbsp;
     </td>
   </tr>
   <tr>
