@@ -3,7 +3,7 @@
 ![github-banner](https://github.com/user-attachments/assets/a1f509e3-beae-458a-b13d-b65aedb615e3)
 
 - 👨🏻‍💻 alias: @anxkhn
-- 💼 **sde intern @ hackerrank | gsoc'25 @ google deepmind**
+- 💼 **sde 1 @ hackerrank | gsoc'25 @ google deepmind**
 - 💻 currently tinkering with open-source llms
 - 🔎 primarily into backend engineering and dev infra
 - 📧 reach out: anxkhn(at)duck(dot)com → [click to email](mailto:anxkhn@duck.com)
