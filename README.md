@@ -3,21 +3,21 @@
 ![github-banner](https://github.com/user-attachments/assets/a1f509e3-beae-458a-b13d-b65aedb615e3)
 
 - 👨🏻‍💻 alias: @anxkhn
-- 💼 **sde 1 @ hackerrank | gsoc'25 @ google deepmind**
-- 💻 currently tinkering with open-source llms
-- 🔎 primarily into backend engineering and dev infra
-- 📧 reach out: anxkhn(at)duck(dot)com → [click to email](mailto:anxkhn@duck.com)
+- 💼 **sde @ hackerrank | gsoc'25 @ google deepmind**
+- 💻 currently tinkering with open-weight llms
+- 🔎 primarily into backend engineering and infra
+- 📧 reach out: `anxkhn (at) duck (dot) com` → [click to email](mailto:anxkhn@duck.com)
 - 🎉 socials: @anxkhn everywhere → [twitter](https://twitter.com/anxkhn) / [linkedin](https://linkedin.com/in/anxkhn)
 
 🚀 some stuff I’ve built:
 - 🎓 [**CertiSure**](http://anxkhn.github.io/certisure): B2B certification platform w/ bulk gen + QR validation
 - 🗺️ [**AuraTrips**](https://github.com/anxkhn/AuraTrips): AI-based travel itinerary gen using LLaMA + RAG
 - 🔐 [**CodeClip**](http://anxkhn.github.io/codeclip): password-protected snippet sharing + LLM-based code explainer
-- 📦 [**FFpy / FlashFlask / OpynGPT**](https://pypi.org/user/anxkhn/): Dev-first PyPI tools (35K+ downloads)
+- 📦 [**FFpy / FlashFlask / OpynGPT**](https://pypi.org/user/anxkhn/): Dev-first PyPI tools (48K+ downloads)
 
 🏆 highlights:
-- 🥈 winner in 6+ national hackathons
-- 📜 published LLM research @ CML 2025 (Springer LNNS)
+- 🥈 winner in 6+ hackathons
+- 📜 published LLM research @ CML 2025 [Springer LNNS](https://link.springer.com/chapter/10.1007/978-981-95-2872-1_46)
 - 🏅 recipient of Principal’s Excellence Award @ TSEC
 
 🗂️ check out my [portfolio](https://anaskhan.me) & [resume](https://anaskhan.me/cv) if you're curious 👀
