@@ -1,4 +1,19 @@
-## hey there👋 ! **anas khan** 🚀
+<!-- 
+  anas khan | anxkhn
+  software engineer · backend developer · applied ai engineer · product engineer
+  skills: python, go, javascript, typescript, ruby, java, c, c++
+  frameworks: flask, fastapi, django, rails, express.js, node.js, react, next.js
+  databases: postgresql, mysql, sqlite, mongodb, redis, chromadb
+  ai/ml: pytorch, llama, deepseek, gemma, phi-4, rag, vector embeddings, llm fine-tuning, agentic ai, multimodal models
+  tools: git, docker, jenkins, airflow, n8n, postman, playwright, bash
+  cloud: aws (s3, lambda, sqs), google cloud platform, vercel, render
+  libraries: pandas, numpy, pillow, nltk
+  certifications: microsoft azure ai-900, oracle oci gen ai, github actions, harvard cs50x
+  work: hackerrank, google deepmind (gsoc), fampay, general mills
+  interests: backend engineering, distributed systems, llm inference, open source, agentic ai, developer tooling
+-->
+
+## hey there👋 ! **anas khan** 
 
 ![github-banner](https://github.com/user-attachments/assets/a1f509e3-beae-458a-b13d-b65aedb615e3)
 
