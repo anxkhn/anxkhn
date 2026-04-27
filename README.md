@@ -19,8 +19,9 @@
 
 - 👨🏻‍💻 alias: @anxkhn
 - 💼 **sde @ hackerrank | gsoc'25 @ google deepmind**
-- 💻 currently tinkering with open-weight llms
-- 🔎 primarily into backend engineering and infra
+- 💻 currently tinkering with voice and llms
+- 📭 open to opportunities in Applied AI (Agents, LLMs, Evals)
+- 🔎 primarily into backend engineering and gen ai
 - 📧 reach out: `anxkhn (at) duck (dot) com` → [click to email](mailto:anxkhn@duck.com)
 - 🎉 socials: @anxkhn everywhere → [twitter](https://twitter.com/anxkhn) / [linkedin](https://linkedin.com/in/anxkhn)
 
