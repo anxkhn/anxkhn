@@ -13,30 +13,32 @@
   interests: backend engineering, distributed systems, llm inference, open source, agentic ai, developer tooling
 -->
 
-## hey there👋 ! **anas khan** 
+## hey there! 👋 **anas khan**
 
 ![github-banner](https://github.com/user-attachments/assets/a1f509e3-beae-458a-b13d-b65aedb615e3)
 
 - 👨🏻‍💻 alias: @anxkhn
-- 💼 **sde @ hackerrank | gsoc'25 @ google deepmind**
+- 💼 **ex-software engineer @ hackerrank (yc s11) | fampay (yc s21) | general mills**
+- ☀️ **gsoc '25 @ google deepmind | gsoc '26 mentor @ circuitverse**
 - 💻 currently tinkering with voice and llms
-- 📭 open to opportunities in Applied AI (Agents, LLMs, Evals)
 - 🔎 primarily into backend engineering and gen ai
 - 📧 reach out: `anxkhn (at) duck (dot) com` → [click to email](mailto:anxkhn@duck.com)
 - 🎉 socials: @anxkhn everywhere → [twitter](https://twitter.com/anxkhn) / [linkedin](https://linkedin.com/in/anxkhn)
 
-🚀 some stuff I’ve built:
-- 🎓 [**CertiSure**](http://anxkhn.github.io/certisure): B2B certification platform w/ bulk gen + QR validation
-- 🗺️ [**AuraTrips**](https://github.com/anxkhn/AuraTrips): AI-based travel itinerary gen using LLaMA + RAG
-- 🔐 [**CodeClip**](http://anxkhn.github.io/codeclip): password-protected snippet sharing + LLM-based code explainer
+🚀 some stuff I've built:
+- 🎓 [**CertiSure**](http://anxkhn.github.io/certisure): B2B certification platform w/ bulk generation + QR validation
+- 🗺️ [**AuraTrips**](https://github.com/anxkhn/AuraTrips): AI-based travel itinerary generator using LLaMA + RAG
+- 🔐 [**CodeClip**](http://anxkhn.github.io/codeclip): Password-protected snippet sharing + LLM-based code explainer
 - 📦 [**FFpy / FlashFlask / OpynGPT**](https://pypi.org/user/anxkhn/): Dev-first PyPI tools (48K+ downloads)
 
 🏆 highlights:
 - 🥈 winner in 6+ hackathons
 - 📜 published LLM research @ CML 2025 [Springer LNNS](https://link.springer.com/chapter/10.1007/978-981-95-2872-1_46)
-- 🏅 recipient of Principal’s Excellence Award @ TSEC
+- 🏅 recipient of Principal's Excellence Award @ TSEC
 
-🗂️ check out my [portfolio](https://anaskhan.me) & [resume](https://anaskhan.me/cv) if you're curious 👀
+🗂️ check out my [portfolio](https://anaskhan.me) and [resume](https://anaskhan.me/cv) 👀
+<br> 
+🟢 **open to working on exciting projects in applied ai, backend & software engineering** · <a href="https://anaskhan.me/cal">let's talk →</a>
 
 <br>
 
@@ -59,7 +61,7 @@
 
   <tr>
     <td><b>UI Libraries:</b></td>
-    <td> 
+    <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,tailwind,picocss,materialui,shadcn" alt="bootstrap, tailwind css, pico css, material ui, shadcn ui" height="40"/>
     </td>
   </tr>
@@ -100,11 +102,14 @@
   </tr>
 </table>
 
-
 <details>
-<summary> feel free to refer my personal code repos responsibly. </summary>
-  
-#### note: all the repos are under general public license v3.0.  
-all code must be disclosed under a gpl 3.0 compatible license.   
-read more about the general public license v3.0 [here](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)).
+<summary>Feel free to refer to my personal code repositories responsibly.</summary>
+
+#### Note
+
+All repositories are licensed under GPL v3.0.
+
+All code must be disclosed under a GPL v3.0-compatible license.
+
+Read more about the license [here](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)).
 </details>
