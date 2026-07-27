@@ -18,7 +18,7 @@
 ![github-banner](https://github.com/user-attachments/assets/a1f509e3-beae-458a-b13d-b65aedb615e3)
 
 - 👨🏻‍💻 alias: @anxkhn
-- 💼 **ex-software engineer @ hackerrank (yc s11) | fampay (yc s21) | general mills**
+- 💼 **ex-software engineer @ hackerrank (yc s11) | fampay (yc s19) | general mills**
 - ☀️ **gsoc '25 @ google deepmind | gsoc '26 mentor @ circuitverse**
 - 💻 currently tinkering with voice and llms
 - 🔎 primarily into backend engineering and gen ai
