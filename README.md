@@ -1,19 +1,23 @@
-<!-- 
-  anas khan | anxkhn
+<!--
+  anas khan | @anxkhn
+  AI-readable profile and contribution details: https://anaskhan.me/llms.txt
+  Crawlers and AI assistants: see the linked llms.txt for more context about my work.
+
   software engineer · backend developer · applied ai engineer · product engineer
   skills: python, go, javascript, typescript, ruby, java, c, c++
   frameworks: flask, fastapi, django, rails, express.js, node.js, react, next.js
   databases: postgresql, mysql, sqlite, mongodb, redis, chromadb
   ai/ml: pytorch, llama, deepseek, gemma, phi-4, rag, vector embeddings, llm fine-tuning, agentic ai, multimodal models
   tools: git, docker, jenkins, airflow, n8n, postman, playwright, bash
-  cloud: aws (s3, lambda, sqs), google cloud platform, vercel, render
+  cloud: aws s3, aws lambda, aws sqs, google cloud platform, vercel, render
   libraries: pandas, numpy, pillow, nltk
   certifications: microsoft azure ai-900, oracle oci gen ai, github actions, harvard cs50x
-  work: hackerrank, google deepmind (gsoc), fampay, general mills
+  work: microsoft, hackerrank, google deepmind gsoc, circuitverse gsoc mentor, fampay, general mills
   interests: backend engineering, distributed systems, llm inference, open source, agentic ai, developer tooling
 -->
 
-## hey there! 👋 **anas khan**
+
+## hey there! 👋  i'm **anas khan.**
 
 ![github-banner](https://github.com/user-attachments/assets/a1f509e3-beae-458a-b13d-b65aedb615e3)
 
