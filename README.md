@@ -113,7 +113,7 @@
 <details>
 <summary><b>my open source contributions</b></summary>
 
-I like building products and making them better. A lot of that happens in the open. Right now that is 523 contributions across 95 repositories, mostly on projects I care about or can usefully improve.
+I like building products and making them better. A lot of that happens in the open. Right now that is 525 contributions across 95 repositories, mostly on projects I care about or can usefully improve.
 
 #### AI / Agents / LLMs
 
@@ -146,23 +146,23 @@ I like building products and making them better. A lot of that happens in the op
 | [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw/pulls?q=is:pr+is:merged+author:anxkhn)                               | MCP server for creating and editing Excalidraw diagrams                   | 1 PR          | 2k    |
 | [a2aproject/a2a-python](https://github.com/a2aproject/a2a-python/pulls?q=is:pr+is:merged+author:anxkhn)                                   | Python library for running agents as A2A servers                          | 1 PR          | 2k    |
 | [google-deepmind/concordia](https://github.com/google-deepmind/concordia/pulls?q=is:pr+is:merged+author:anxkhn)                           | library for generative agents in simulated worlds                         | 2 PRs         | 2k    |
-| [google-deepmind/mujoco_warp](https://github.com/google-deepmind/mujoco_warp/pulls?q=is:pr+is:merged+author:anxkhn)                       | GPU-optimized MuJoCo physics simulator from DeepMind                      | 2 PRs         | 1k    |
+| [google-deepmind/mujoco_warp](https://github.com/google-deepmind/mujoco_warp/pulls?q=is:pr+is:merged+author:anxkhn)                       | GPU-optimized MuJoCo physics simulator from DeepMind                      | 2 PRs         | 2k    |
 | [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein/pulls?q=is:pr+is:merged+author:anxkhn)                         | deterministic orchestrator for CLI coding agents                          | 1 PR          | 1k    |
 | [johannesjo/parallel-code](https://github.com/johannesjo/parallel-code/pulls?q=is:pr+is:merged+author:anxkhn)                             | run Claude Code, Codex, and Gemini in parallel worktrees                  | 1 PR          | 1k    |
-| [dapr/dapr-agents](https://github.com/dapr/dapr-agents/pulls?q=is:pr+is:merged+author:anxkhn)                                             | autonomous AI agents with Dapr workflow and telemetry                     | 11 PRs        | 751   |
-| [a2aproject/a2a-js](https://github.com/a2aproject/a2a-js/pulls?q=is:pr+is:merged+author:anxkhn)                                           | TypeScript SDK for A2A clients and servers                                | 6 PRs         | 629   |
-| [google-deepmind/simply](https://github.com/google-deepmind/simply/pulls?q=is:pr+is:merged+author:anxkhn)                                 | minimal JAX research codebase for LLMs                                    | 1 PR          | 577   |
-| [AbdelStark/awesome-typesafe-jev](https://github.com/AbdelStark/awesome-typesafe-jev/pulls?q=is:pr+is:merged+author:anxkhn)               | community field guide to TypeSafe's Jev typed judgments                   | 2 PRs         | 539   |
+| [dapr/dapr-agents](https://github.com/dapr/dapr-agents/pulls?q=is:pr+is:merged+author:anxkhn)                                             | autonomous AI agents with Dapr workflow and telemetry                     | 11 PRs        | 752   |
+| [a2aproject/a2a-js](https://github.com/a2aproject/a2a-js/pulls?q=is:pr+is:merged+author:anxkhn)                                           | TypeScript SDK for A2A clients and servers                                | 6 PRs         | 630   |
+| [google-deepmind/simply](https://github.com/google-deepmind/simply/pulls?q=is:pr+is:merged+author:anxkhn)                                 | minimal JAX research codebase for LLMs                                    | 1 PR          | 579   |
+| [AbdelStark/awesome-typesafe-jev](https://github.com/AbdelStark/awesome-typesafe-jev/pulls?q=is:pr+is:merged+author:anxkhn)               | community field guide to TypeSafe's Jev typed judgments                   | 2 PRs         | 549   |
 | [mco-org/mco](https://github.com/mco-org/mco/pulls?q=is:pr+is:merged+author:anxkhn)                                                       | CLI orchestration for AI coding agents in parallel                        | 1 PR          | 528   |
-| [a2aproject/a2a-go](https://github.com/a2aproject/a2a-go/pulls?q=is:pr+is:merged+author:anxkhn)                                           | Go library for A2A clients and servers                                    | 2 PRs         | 475   |
-| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router/pulls?q=is:pr+is:merged+author:anxkhn)                                         | intelligent router entry point for LLM inference requests                 | 9 PRs         | 364   |
+| [a2aproject/a2a-go](https://github.com/a2aproject/a2a-go/pulls?q=is:pr+is:merged+author:anxkhn)                                           | Go library for A2A clients and servers                                    | 2 PRs         | 476   |
+| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router/pulls?q=is:pr+is:merged+author:anxkhn)                                         | intelligent router entry point for LLM inference requests                 | 9 PRs         | 366   |
 
 #### Developer tools / frameworks
 
 | repository                                                                                                                                | about                                                                     | contributions | stars |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------- | ----: |
 | [react/react](https://github.com/react/react/pulls?q=is:pr+is:merged+author:anxkhn)                                                       | library for web and native user interfaces                                | 4 PRs         | 251k  |
-| [torvalds/linux](https://github.com/torvalds/linux/commits?author=anxkhn&since=2026-01-01)                                                | Linux kernel source tree                                                  | 7 commits     | 250k  |
+| [torvalds/linux](https://github.com/torvalds/linux/commits?author=anxkhn&since=2026-01-01)                                                | Linux kernel source tree                                                  | 7 commits     | 251k  |
 | [astral-sh/uv](https://github.com/astral-sh/uv/pulls?q=is:pr+is:merged+author:anxkhn)                                                     | extremely fast Python package and project manager                         | 2 PRs         | 90k   |
 | [rails/rails](https://github.com/rails/rails/pulls?q=is:pr+is:merged+author:anxkhn)                                                       | full-stack web framework for Ruby                                         | 2 PRs         | 59k   |
 | [reflex-dev/reflex](https://github.com/reflex-dev/reflex/pulls?q=is:pr+is:merged+author:anxkhn)                                           | build web apps in pure Python                                             | 11 PRs        | 29k   |
@@ -210,11 +210,11 @@ I like building products and making them better. A lot of that happens in the op
 
 | repository                                                                                                                                | about                                                                     | contributions | stars |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------- | ----: |
-| [kestra-io/kestra](https://github.com/kestra-io/kestra/pulls?q=is:pr+is:merged+author:anxkhn)                                             | event-driven orchestration and scheduling platform                        | 14 PRs        | 28k   |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra/pulls?q=is:pr+is:merged+author:anxkhn)                                             | event-driven orchestration and scheduling platform                        | 14 PRs        | 29k   |
 | [dapr/dapr](https://github.com/dapr/dapr/pulls?q=is:pr+is:merged+author:anxkhn)                                                           | portable runtime for distributed cloud and edge apps                      | 7 PRs         | 26k   |
 | [rook/rook](https://github.com/rook/rook/pulls?q=is:pr+is:merged+author:anxkhn)                                                           | storage orchestration for Kubernetes                                      | 12 PRs        | 14k   |
 | [higress-group/higress](https://github.com/higress-group/higress/pulls?q=is:pr+is:merged+author:anxkhn)                                   | AI-native API gateway                                                     | 1 PR          | 9k    |
-| [tektoncd/pipeline](https://github.com/tektoncd/pipeline/pulls?q=is:pr+is:merged+author:anxkhn)                                           | cloud-native CI/CD pipeline resource for Kubernetes                       | 10 PRs        | 9k    |
+| [tektoncd/pipeline](https://github.com/tektoncd/pipeline/pulls?q=is:pr+is:merged+author:anxkhn)                                           | cloud-native CI/CD pipeline resource for Kubernetes                       | 12 PRs        | 9k    |
 | [kubevela/kubevela](https://github.com/kubevela/kubevela/pulls?q=is:pr+is:merged+author:anxkhn)                                           | modern cloud-native application platform                                  | 6 PRs         | 8k    |
 | [flyteorg/flyte](https://github.com/flyteorg/flyte/pulls?q=is:pr+is:merged+author:anxkhn)                                                 | dynamic AI workflow orchestration for data and models                     | 1 PR          | 8k    |
 | [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian/pulls?q=is:pr+is:merged+author:anxkhn)               | rules engine for cloud security, cost, and governance                     | 11 PRs        | 6k    |
@@ -225,7 +225,7 @@ I like building products and making them better. A lot of that happens in the op
 | [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly/pulls?q=is:pr+is:merged+author:anxkhn)                                 | P2P data distribution and image acceleration                              | 5 PRs         | 3k    |
 | [open-feature/flagd](https://github.com/open-feature/flagd/pulls?q=is:pr+is:merged+author:anxkhn)                                         | feature flag daemon with a Unix philosophy                                | 10 PRs        | 1k    |
 | [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner/pulls?q=is:pr+is:merged+author:anxkhn)       | dynamic node-local persistent volumes for Kubernetes                      | 8 PRs         | 212   |
-| [kubeflow/sdk](https://github.com/kubeflow/sdk/pulls?q=is:pr+is:merged+author:anxkhn)                                                     | Python SDK to run AI workloads on Kubernetes                              | 3 PRs         | 149   |
+| [kubeflow/sdk](https://github.com/kubeflow/sdk/pulls?q=is:pr+is:merged+author:anxkhn)                                                     | Python SDK to run AI workloads on Kubernetes                              | 3 PRs         | 151   |
 
 #### Education / community
 
@@ -237,8 +237,8 @@ I like building products and making them better. A lot of that happens in the op
 | [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector/pulls?q=is:pr+is:merged+author:anxkhn) | collector that receives, processes, and exports traces, metrics, and logs | 1 PR          | 8k    |
 | [google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel/pulls?q=is:pr+is:merged+author:anxkhn)                         | research framework for reinforcement learning in games                    | 2 PRs         | 6k    |
 | [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse/pulls?q=is:pr+is:merged+author:anxkhn)                           | online digital logic circuit simulator                                    | 2 PRs         | 1k    |
-| [code100x/daily-code](https://github.com/code100x/daily-code/pulls?q=is:pr+is:merged+author:anxkhn)                                       | daily coding practice platform                                            | 2 PRs         | 956   |
-| [google/sam](https://github.com/google/sam/pulls?q=is:pr+is:merged+author:anxkhn)                                                         | private network where AI agents publish and call each other's tools       | 1 PR          | 947   |
+| [code100x/daily-code](https://github.com/code100x/daily-code/pulls?q=is:pr+is:merged+author:anxkhn)                                       | daily coding practice platform                                            | 2 PRs         | 955   |
+| [google/sam](https://github.com/google/sam/pulls?q=is:pr+is:merged+author:anxkhn)                                                         | private network where AI agents publish and call each other's tools       | 1 PR          | 950   |
 | [0xku/leetcode-compensation](https://github.com/0xku/leetcode-compensation/pulls?q=is:pr+is:merged+author:anxkhn)                         | India software engineering salaries from LeetCode compensation            | 4 PRs         | 417   |
 | [codinasion/codinasion](https://github.com/codinasion/codinasion/pulls?q=is:pr+is:merged+author:anxkhn)                                   | open-source collaboration and learning projects                           | 4 PRs         | 318   |
 | [fossunited/fossunited](https://github.com/fossunited/fossunited/pulls?q=is:pr+is:merged+author:anxkhn)                                   | FOSS United community platform                                            | 1 PR          | 215   |
